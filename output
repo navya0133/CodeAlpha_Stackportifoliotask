@@ -1,0 +1,16 @@
+📈 Welcome to Stock Portfolio Tracker
+Enter number of stocks you want to add: 2
+
+Enter stock symbol: AAPL
+Enter quantity of AAPL: 3
+
+Enter stock symbol: TSLA
+Enter quantity of TSLA: 2
+
+📊 Portfolio Summary
+AAPL -> Quantity: 3 | Investment: $540
+TSLA -> Quantity: 2 | Investment: $500
+
+💰 Total Investment Value: $1040
+
+✅ Portfolio saved to portfolio.txt
