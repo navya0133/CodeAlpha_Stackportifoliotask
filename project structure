@@ -1,0 +1,6 @@
+StockPortfolioTracker/
+│
+├── stock_tracker.py
+├── README.md
+├── requirements.txt
+└── portfolio.txt
